@@ -1,7 +1,7 @@
 {
   "name": "Empresa de Benefícios Amarelos",
   "short_name": "Amarelo",
-  "start_url": "index.html",
+  "start_url": "indice.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffcc00",
@@ -12,7 +12,7 @@
       "sizes": "192x192"
     },
     {
-      "src": "src": "imagens/icone-512.png",
+      "src": "imagens/icone-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
